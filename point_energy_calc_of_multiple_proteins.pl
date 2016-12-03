@@ -11,9 +11,6 @@ use warnings;
 # make it executable: chmod +x point_energy_calc_of_multiple_proteins.pl
 # Execute it: perl point_energy_calc_of_multiple_proteins.pl
 
-
-
-
 #This script works for Gromacs verson 5.1.3. 
 # These sequences of commands simulate multiple (three) proteins in a vacuum using Gromacs.                                                                                                                                                   
 # Make sure that the necessary .mdp file is ported for the run to work.                                                                                                                                                                       
