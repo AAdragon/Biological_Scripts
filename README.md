@@ -1,2 +1,3 @@
 # Biological_Scripts
-Here I store biological scripts that I have written, loops, etc. 
+Here I, Adron Ung, store biological scripts that I have written, loops, etc. 
+contact me: adron.ung@jacks.sdstate.edu 
