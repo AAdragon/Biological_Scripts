@@ -14,13 +14,15 @@ use warnings;
 # Make sure that the necessary .mdp file is ported for the run to work.                                                                                                                                                                       
 # To execute this script with prior assumptions: Source GMXRC, then obtain the files that you would like to analyze via curl. 
 # Type something like this directory into a linux terminal to retrieve several proteins. 
-# This is a bash script so it's commented out in the perl script. 
+# This is a bash script so it's commented out in the perl script:
+
 # for id in 1AKI 1UBQ 2N9M
 # do
 # curl "http://files.rcsb.org/view/$id.pdb" - o $id.pdb
 # done
 
-# If you do that you will get these files: 1UBQ.pdb, 1AKI.pdb, and 2N9M.pdb
+# If you do that you will get these files: 1UBQ.pdb, 1AKI.pdb, and 2N9M.pdb.
+# It does not matter what the names of your PDB files are for this perl script to work. 
 # Then remove the Heteroatom HOH lines of water in a text editor and you are able to execute this script. 
 # Note: I may have to make some changes to the .mdp file in a future to model the physics more accurately.
 # Nevertheless, this is a great demonstration of how to call perl within Gromacs. 
