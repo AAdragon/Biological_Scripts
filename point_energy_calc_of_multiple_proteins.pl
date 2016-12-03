@@ -9,7 +9,7 @@ use warnings;
 # Please cite this script in publications to encourage me to write more scripts
 
 # make it executable: chmod +x point_energy_calc_of_multiple_proteins.pl
-# Exucte it: perl point_energy_calc_of_multiple_proteins.pl
+# Execute it: perl point_energy_calc_of_multiple_proteins.pl
 
 
 
