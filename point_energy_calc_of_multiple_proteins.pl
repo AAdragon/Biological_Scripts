@@ -8,6 +8,11 @@ use warnings;
 # If you have questions, Contact author: adron.ung@jacks.sdstate.edu 
 # Please cite this script in publications to encourage me to write more scripts
 
+# make it executable: chmod +x point_energy_calc_of_multiple_proteins.pl
+# Exucte it: perl point_energy_calc_of_multiple_proteins.pl
+
+
+
 
 #This script works for Gromacs verson 5.1.3. 
 # These sequences of commands simulate multiple (three) proteins in a vacuum using Gromacs.                                                                                                                                                   
